@@ -1,5 +1,8 @@
 # 🏄‍♂️ K4LI9D7
 
+![Profile views](https://gpvc.arturio.dev/K4LI9D7?style=flat&color=ff69b4&labelColor=cbd5e0&logoColor=white&label=PROFILE+VIEWS&logo=github)
+
+
 **`Developer`**
 
 I'm a recent software engineering graduate passionate about technology and coding. My ability to learn quickly and adapt to new technologies and tools has shaped me into a proficient programmer. My tenacity stands out - when faced with a challenge, I dive into my problem-solving zone and don't emerge until the issue is resolved. This determination, coupled with the solid foundation of my degree, prepares me to tackle real-world programming problems head-on.
