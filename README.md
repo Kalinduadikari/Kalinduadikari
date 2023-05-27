@@ -1,6 +1,6 @@
 # 🏄‍♂️ K4LI9D7
 
-![Profile views](https://gpvc.arturio.dev/K4LI9D7?style=flat&color=ff69b4&labelColor=cbd5e0&logoColor=white&label=PROFILE+VIEWS&logo=github)
+![Profile views](https://gpvc.arturio.dev/K4LI9D7?style=plastic&color=brightgreen&labelColor=555555&logoColor=white&label=PROFILE+VIEWS&logo=github)
 
 
 **`Developer`**
