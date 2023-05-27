@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🏄‍♂️ K4LI9D7
 
 **`Developer`**
@@ -27,7 +25,7 @@ I'm a recent software engineering graduate passionate about technology and codin
 
 #
 
-</div>
+
 
 ---
 
