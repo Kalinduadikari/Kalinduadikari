@@ -1,8 +1,5 @@
 # 🏄‍♂️ K4LI9D7
 
-![Profile views](https://gpvc.arturio.dev/K4LI9D7?style=plastic&color=brightgreen&labelColor=555555&logoColor=white&label=PROFILE+VIEWS&logo=github)
-
-
 
 **`Developer`**
 
@@ -40,3 +37,5 @@ I'm a recent software engineering graduate passionate about technology and codin
 
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />](https://twitter.com/k4lee_adi)
 </div>
+
+![Profile views](https://gpvc.arturio.dev/K4LI9D7?style=plastic&color=brightgreen&labelColor=555555&logoColor=white&label=PROFILE+VIEWS&logo=github)
