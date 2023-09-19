@@ -8,7 +8,10 @@ I'm Kalindu Adikari, a recent graduate with a passion for data science. Eager to
    
 
 ---
-[k4lee.me](https://www.k4lee.me)
+<div align="center">
+  🌐 **Website:** [k4lee.me](https://www.k4lee.me)
+</div>
+
 ---
 
 ### 📬 Let's Connect
